@@ -4,11 +4,9 @@
   padding: 20px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
-
 .rogo {
   margin-left: 50px;
 }
-
 .communication {
   margin-left: 50px;
 }
@@ -19,10 +17,31 @@
   margin-left: 50px;
 }
 .login {
-  margin-left: 700px;
+  margin-left: 750px;
 }
-.map-container {
+div {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+}
+#a {
+  position: absolute;
+  margin-right: 500px;
+}
+#b {
+  position: absolute;
+  margin-left: 500px;
+}
+#c {
+  position: absolute;
+  margin-top: 500px;
+  margin-right: 800px;
+}
+#d {
+  position: absolute;
+  margin-top: 500px;
+}
+#e {
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 800px;
 }
